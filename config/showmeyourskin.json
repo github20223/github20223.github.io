@@ -1,0 +1,55 @@
+{
+  "globalEnabled": false,
+  "combatCooldown": 16.0,
+  "fadeOutTime": 2.0,
+  "global": {
+    "pieces": {
+      "FEET": {
+        "transparency": 100,
+        "enchantGlint": true
+      },
+      "CHEST": {
+        "transparency": 100,
+        "enchantGlint": true
+      },
+      "HEAD": {
+        "transparency": 100,
+        "enchantGlint": true
+      },
+      "LEGS": {
+        "transparency": 100,
+        "enchantGlint": true
+      }
+    },
+    "showInCombat": true,
+    "showNameTag": true,
+    "showElytra": true,
+    "showShieldGlint": true
+  },
+  "overrides": {
+    "80e2be67-be83-4e70-a8a2-cffb92747d35": {
+      "pieces": {
+        "FEET": {
+          "transparency": 100,
+          "enchantGlint": true
+        },
+        "CHEST": {
+          "transparency": 100,
+          "enchantGlint": true
+        },
+        "HEAD": {
+          "transparency": 100,
+          "enchantGlint": true
+        },
+        "LEGS": {
+          "transparency": 100,
+          "enchantGlint": true
+        }
+      },
+      "showInCombat": true,
+      "showNameTag": true,
+      "showElytra": true,
+      "showShieldGlint": true
+    }
+  }
+}

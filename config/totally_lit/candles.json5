@@ -1,0 +1,5 @@
+{
+	"burnDuration": 4,
+	"extinguishInRainChance": 1.0,
+	"extinguishOverTime": true
+}

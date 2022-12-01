@@ -1,0 +1,10 @@
+{
+  "frameQueueSize": 2,
+  "resolution": {
+    "width": 2560,
+    "height": 1440,
+    "refreshRate": 0
+  },
+  "windowedFullscreen": false,
+  "guiOptimizations": false
+}

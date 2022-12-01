@@ -1,0 +1,241 @@
+[
+  {
+    "name": "default",
+    "entries": [
+      {
+        "state": "{Name:\"minecraft:gold_ore\"}",
+        "name": "Gold Ore",
+        "color": "#e0ca00",
+        "order": 0,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:iron_ore\"}",
+        "name": "Iron Ore",
+        "color": "#a8c8ab",
+        "order": 1,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:diamond_ore\"}",
+        "name": "Diamond Ore",
+        "color": "#33e4ff",
+        "order": 2,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Redstone Ore",
+        "color": "#aa17a7",
+        "order": 3,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:lapis_ore\"}",
+        "name": "Lapis Lazuli Ore",
+        "color": "#175b8d",
+        "order": 4,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:coal_ore\"}",
+        "name": "Coal Ore",
+        "color": "#851f24",
+        "order": 5,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:emerald_ore\"}",
+        "name": "Emerald Ore",
+        "color": "#00eb00",
+        "order": 6,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:copper_ore\"}",
+        "name": "Copper Ore",
+        "color": "#6d574d",
+        "order": 7,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_gold_ore\"}",
+        "name": "Deepslate Gold Ore",
+        "color": "#aa9900",
+        "order": 8,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_iron_ore\"}",
+        "name": "Deepslate Iron Ore",
+        "color": "#1bcbf3",
+        "order": 9,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_diamond_ore\"}",
+        "name": "Deepslate Diamond Ore",
+        "color": "#0099dc",
+        "order": 10,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Deepslate Redstone Ore",
+        "color": "#3717d2",
+        "order": 11,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_lapis_ore\"}",
+        "name": "Deepslate Lapis Lazuli Ore",
+        "color": "#376be3",
+        "order": 12,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_coal_ore\"}",
+        "name": "Deepslate Coal Ore",
+        "color": "#8da69c",
+        "order": 13,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_emerald_ore\"}",
+        "name": "Deepslate Emerald Ore",
+        "color": "#008000",
+        "order": 14,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_copper_ore\"}",
+        "name": "Deepslate Copper Ore",
+        "color": "#86341c",
+        "order": 15,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:nether_gold_ore\"}",
+        "name": "Nether Gold Ore",
+        "color": "#5875f6",
+        "order": 16,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:ancient_debris\"}",
+        "name": "Ancient Debris",
+        "color": "#4e08ca",
+        "order": 17,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_iron_ore\"}",
+        "name": "Dense Iron Ore",
+        "color": "#ff363a",
+        "order": 19,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_deepslate_iron_ore\"}",
+        "name": "Dense Deepslate Iron Ore",
+        "color": "#861410",
+        "order": 20,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_copper_ore\"}",
+        "name": "Dense Copper Ore",
+        "color": "#6543ff",
+        "order": 21,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_gold_ore\"}",
+        "name": "Dense Gold Ore",
+        "color": "#6153ff",
+        "order": 22,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_deepslate_gold_ore\"}",
+        "name": "Dense Deepslate Gold Ore",
+        "color": "#3b36ff",
+        "order": 23,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_diamond_ore\"}",
+        "name": "Dense Diamond Ore",
+        "color": "#ff3498",
+        "order": 24,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_deepslate_diamond_ore\"}",
+        "name": "Dense Deepslate Diamond Ore",
+        "color": "#ff00ad",
+        "order": 25,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_emerald_ore\"}",
+        "name": "Dense Emerald Ore",
+        "color": "#00ff00",
+        "order": 26,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_deepslate_emerald_ore\"}",
+        "name": "Dense Deepslate Emerald Ore",
+        "color": "#7cff00",
+        "order": 27,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"denseores:dense_deepslate_copper_ore\"}",
+        "name": "Dense Deepslate Copper Ore",
+        "color": "#433cff",
+        "order": 28,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"techreborn:iridium_ore\"}",
+        "name": "Iridium Ore",
+        "color": "#c4ff00",
+        "order": 29,
+        "isDefault": true,
+        "active": true
+      }
+    ],
+    "order": 0,
+    "active": true
+  }
+]

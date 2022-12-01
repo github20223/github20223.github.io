@@ -1,0 +1,16 @@
+{
+	"blackBerrySpawnChance": 16,
+	"blueBerrySpawnChance": 16,
+	"greenBerrySpawnChance": 16,
+	"orangeBerrySpawnChance": 16,
+	"purpleBerrySpawnChance": 16,
+	"yellowBerrySpawnChance": 16,
+	"blackBerrySpawnBiomes": "minecraft:plains",
+	"blueBerrySpawnBiomes": "minecraft:forest,minecraft:flower_forest,minecraft:dark_forest,minecraft:grove",
+	"greenBerrySpawnBiomes": "#minecraft:is_jungle",
+	"orangeBerrySpawnBiomes": "#minecraft:is_badlands,minecraft:savanna,minecraft:savanna_plateau,minecraft:windswept_savanna",
+	"purpleBerrySpawnBiomes": "minecraft:swamp,minecraft:mangrove_swamp",
+	"yellowBerrySpawnBiomes": "minecraft:birch_forest, minecraft:old_growth_birch_forest",
+	"craftableBerryBushes": false,
+	"replaceSweetBerryBushModel": true
+}

@@ -1,0 +1,1150 @@
+hash-format = "sha256"
+
+[[files]]
+file = "bin/version.json"
+hash = "1a4c6f664ace6b8d058bbc08727042547e4171baede5fd5ddb40a385580deb18"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "9095c391e828b6292ab8c2767a8cdadcfd6f01916e39a5b77ec7ecd3dcc21b85"
+
+[[files]]
+file = "config/LibertyVillagers.json"
+hash = "8027624d543a7689bd0c87a838d0ff733eda833840b16dc533f6fcf17bcfae64"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/advanced-xray-fabric/blocks.json"
+hash = "434de15c23c0e5022b74ec13fa3b40e70160047fddd15eca4e5fcb9e7f050ceb"
+
+[[files]]
+file = "config/advanced-xray-fabric/settings.json"
+hash = "f15581307dc876f3099b4d8bb266a4e30c59adae68656ed86f3e8aba642121e8"
+
+[[files]]
+file = "config/ae2/client.json"
+hash = "33fe9ecb2aa657985416275b36d142f50ac656b1b2112b3836024c47d20bb2f9"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "e58f9b06ae82aac825fbda8cc34a4e6e89516f15c74b0943c8ad1437cd2a2577"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "c5a0628629ad593dd837cd108004bf00d61ed035a70af7663b026bf4b3583484"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "743107ba659535a0f00cdc617e6f66c9a2306ae95898d76cd6a1cca923863430"
+
+[[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "4eb99b3b5636ac4315f8672f8b0f73beb68ac3d6849107b1d1dc1eba3fa671e1"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "357701f19f5249e2e3fa49dceb84a7f9070e6b7359db17302c341e0fcc1b719e"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "32110179c04856b0f2b960ac8e7b7038df7aed63e354f2f4c0e310131fd2c43e"
+
+[[files]]
+file = "config/blur.json"
+hash = "ea2820399d91db4dae84b60c35f112888c44d2125b3b8308915694e1c1e6b76f"
+
+[[files]]
+file = "config/bodacious_berries.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "db979dd74d5f33a1c35cdac41dec8dc354e0782e34e5a428bbfa7685c601c510"
+
+[[files]]
+file = "config/campanion.json"
+hash = "256e6f1c80b8bddf8ebba8d4aacfb769c046c5b688201be5ccaf7bb29d657d80"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/cinderscapes.json"
+hash = "baa611cf438ebc9eaf7c963c4201e48339d4f759d8a76bf6b487c3406a201292"
+
+[[files]]
+file = "config/cleardespawn.toml"
+hash = "d2330ec90f55427e4e995b971ab7799200e115fcf3d9e8d63000c67f04e6a13a"
+
+[[files]]
+file = "config/clickthrough.json"
+hash = "fd07fba9d027fdb082139074ee6adc1a1278891ae19dbb1e1417edda0e0b35ea"
+
+[[files]]
+file = "config/collective-fabric.json5"
+hash = "f482611e63206c368381d69f35d10260086f52a56ac41348a709eaa4a71ae060"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "3c12c49f4475ec148bc4fd7af97dea04f3da06eac4b83a6a953c8ce53d49b92a"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "20772df2e321ec660a746f6d1a11395b62679c6301c84bacacb2f51ab02a9db1"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/cosmetica/cosmetica.properties"
+hash = "2a7ad5a6dc06b0d20e93555cd14b9f3c0f5e8f1e77f666a7c8ecc7731e5cf25d"
+
+[[files]]
+file = "config/cosmetica/default-settings.properties"
+hash = "7b6d22cecdb43e0657df465aae7f741369c23db9169b8ae2ca5bd769f3c96114"
+
+[[files]]
+file = "config/couplings.toml"
+hash = "3ef046267c814eadadcdd3e065251fb682a530f62321bbb53588ea94b96f4371"
+
+[[files]]
+file = "config/crowdin.txt"
+hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
+
+[[files]]
+file = "config/darkness.properties"
+hash = "040e979549776354d1b4f8dca6fc28f1292a271fdc4950e1f3eada035619a18c"
+
+[[files]]
+file = "config/de/mari_023/ae2wtlib.json5"
+hash = "7e11a218f0d09f7c0a0d8c52b17abf7c0614173efa69adc17576f5b60ead7853"
+
+[[files]]
+file = "config/despawningeggshatch-fabric.json5"
+hash = "ff82b246be73f5e675e3af257c82561b6bcfbb7a95ff75636c989562631fdd02"
+
+[[files]]
+file = "config/earthtojavamobs.json"
+hash = "83499b5ef05d262447f465a9fd723c9a86bcee0bf81703492a1fa575631cdb29"
+
+[[files]]
+file = "config/eldritch_mobs.json5"
+hash = "af33568596fb06e2ab488902a390ccc5ba6ddc5b5a253b78d667d383465e4570"
+
+[[files]]
+file = "config/elementalcreepers.json"
+hash = "c177509d1317c76f1c586ad10b084fbb78fd07ec66a37b403d44b365073c0bc8"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "e781359f94dd454a0d7cf840bf56488f5545ee8f2dfac8200129a050af2b71d2"
+
+[[files]]
+file = "config/enhanced_quarries/config.yml"
+hash = "bea709b1696cd0e3b9b3cb14ebc2e367e134aa59f987bdb627268e2456b11452"
+
+[[files]]
+file = "config/extraalchemy.json"
+hash = "977f03455b4517949daa1848af0daff283e359ad4ec14487e8e49dfe16519a16"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "39b76e863ec88eeaf147251ace7942bd80bb1becef8b3224e878c8402d095b68"
+
+[[files]]
+file = "config/fabricshieldlib.json"
+hash = "9c25d5d051d9d4c90a78c85487b4737eb92f3c945d002e3884db4b4676befb4c"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "de74f3b22387f21dfb1088d712d53314c73f7745fc408682e21c2e11e6c88aa9"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "3cb918be192a7a0d3d61fce8ceba4ed9dce2f951182d83882fe8ec70adc4d09c"
+
+[[files]]
+file = "config/farmersdelight.json"
+hash = "b2606eb3d93a91367310e2f36955c7b9d6436ebbca757d88ee4d660b3dd217e3"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "89ce0f258ca66314aa9af1f2048809cece0de23293ae79dad629a722549bd10b"
+
+[[files]]
+file = "config/guarding.properties"
+hash = "e03b812f7be7ccd79a5e474dcacea17702090fc06d7f444fe76edc47870f600a"
+
+[[files]]
+file = "config/harvestseason-common.json"
+hash = "1ba4625bd016a873233a4edb2fb4dd3edaa49537d4aac03d1eb0b58be7c422e4"
+
+[[files]]
+file = "config/horizontal_portals/general.json5"
+hash = "08c106587b745ce347a92ae27caa3b90e0df506575008bb3d85de8bb6c56fcb6"
+
+[[files]]
+file = "config/ic2/furnace.ini"
+hash = "cc5bd470a125ac995d598869a32902a42281b863c47f288ec1ff6bace0dff04c"
+
+[[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "aae8da325a93ebe02ee81a256d03ce4d89585c15a9e163fa1f89b80f463a6c7e"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "ff05998a49f6f2a5360c122e1c0f9c72a6ff296a2b3c444a2894285c350d6739"
+
+[[files]]
+file = "config/inventorysorter/blacklist.json5"
+hash = "9f36f88fdb87b6320507f049e9eff15a6622655666bac5122c1c9f694dd2e3d7"
+
+[[files]]
+file = "config/inventorysorter/config.json5"
+hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
+
+[[files]]
+file = "config/invmove.json"
+hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
+
+[[files]]
+file = "config/invmove/unrecognized.json"
+hash = "a78ee7bb1c0238597ae2b1b3d31be2fadcc29875bfb7604c1f682cf725f8d601"
+
+[[files]]
+file = "config/invmove/vanilla.json"
+hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
+
+[[files]]
+file = "config/iris.properties"
+hash = "dca04b6523cc4d25de5897bb977e03b692d6ad2646e477813d1692de3fc847c4"
+
+[[files]]
+file = "config/itemphysic-client.json"
+hash = "6aa185b27143baec2162d86d14853f84c7b9fc48de36d81c8e8be3b612ec88b2"
+
+[[files]]
+file = "config/itemphysic.json"
+hash = "2db8e2ec0caf709c80860bc15f6a089a9b849f56693334cc1565056e87dbc60f"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "d2c481e5e25bca8a2eee26d00c879561226846e5068347152c94e43d13df41f3"
+
+[[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "117239c07c8a3081bdb5e6923145ccf4b54c43bc2ed979164c5e240968e873bd"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/lifts.json"
+hash = "f0c0002b78f0e99541ee3016c9ef638faff826876613f09c4edf080419c05339"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "7eb6a1fed02b10f335f8e6203a2060c6597d0ea2b2685e7b9b350f5c6fc276a0"
+
+[[files]]
+file = "config/moreberries.json5"
+hash = "e36e1adbf66175c0fbba3639c514b450c798a504dc0e1e2a178e9027d1d1a662"
+
+[[files]]
+file = "config/morevillagers.json"
+hash = "832818b27a76df025a408d353f3aada9195a0a6f0eed5269ddb795d65501078a"
+
+[[files]]
+file = "config/noindium.json"
+hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
+
+[[files]]
+file = "config/npcvariety.json5"
+hash = "1250c9264ed4c97fbb490aee0fa18ee01d1324f10531afa918a862706872c63b"
+
+[[files]]
+file = "config/passableleaves.json5"
+hash = "28eabbec65ea9bc07774741f4d5d41d0f62a34a08830d69e87c210876d9e988e"
+
+[[files]]
+file = "config/peripheralium-common.toml"
+hash = "3b32f14dc9d1befe9131a5aadd6873da465db28c3938e1932a67291798ce0635"
+
+[[files]]
+file = "config/peripheralworks-common.toml"
+hash = "287907df06b40d4963c86e9cbe44f8248a24b84199209fddd51a7ed5b8cfbcb1"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "d0e0ff01a8fad9fb04205b2757d0e4312c16b8cd0a58a8d8c0d2bffc1e7bc979"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "7fb9c5ed2ddc9592c34f121bf7a75b6229e5f185c91035427c05c494869f052d"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
+
+[[files]]
+file = "config/quarrymod/machines.json"
+hash = "156ad7bf8535ce9a3fdd1bc4a1f733165928df1387b13cdcb467cc67ef7aa2d5"
+
+[[files]]
+file = "config/quarryplus.toml"
+hash = "cdd0f88de40ca560b4820102a4bf4c2c311835022ef278a8a2c3ee2bf3a313a3"
+
+[[files]]
+file = "config/quilt-loader.txt"
+hash = "de9834de50d1b57ab6155b6fa8a88fd390fe6c7041b4329e986864380b2a38d5"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+hash = "5ef23446d609c713e513f80131eefadefe46bc3b016d58088b18a8ef88ee2217"
+
+[[files]]
+file = "config/reborncore/misc.json"
+hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
+
+[[files]]
+file = "config/regrowthconfig.properties"
+hash = "1524e9793a163decf7e404ca295a579c7be8b26e7adeb4e2a2980bed089646c7"
+
+[[files]]
+file = "config/resounding.json5"
+hash = "2ae88bde667bb8a149f990fe788d1318c03e94ce1d4aabc9dfed07c43513b660"
+
+[[files]]
+file = "config/rightclickharvest.json"
+hash = "6a19554021b6e252d3a5b5866ee3e52e00a63f1d41cbbed49ea2dbecc26b2833"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "85b08c272b688aced1f55f7158b2fe9acf8ff80ee04362b9692ecc36c9a2f3b0"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "b956e71f7fc42b283f0d77f770648933eb4b88c3c0872133a4f2b61e58d01880"
+
+[[files]]
+file = "config/seasons.json"
+hash = "6b0b18e0903fd32b094ce485ea6eef6c61f4de1d42d362bc6d7a144e52eb2d43"
+
+[[files]]
+file = "config/showmeyourskin.json"
+hash = "ea1b4b29f82de163240b5beab2e845acdad851e3c40b1297bd9bbe383a2fe721"
+
+[[files]]
+file = "config/simplerharvest.json"
+hash = "3e8e57664e564edbbdc290dd61c32d4d44396cf5f9eafecfdc2a26dc1f7c89f8"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
+
+[[files]]
+file = "config/sleepwarp.properties"
+hash = "55c0f61d05ac9745e06a0b09aa38a7f5581ada1d733e5dbe950033637ce7b348"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "36c83dcffdb1c34066703fccf4a744c580ee01cd3be1693cf10a9c14441565ce"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "db5640048dd91015f0970abd3b68e725923b437be4a51564424285dc23a54f97"
+
+[[files]]
+file = "config/sodium-shadowy-path-blocks-options.json"
+hash = "9e8b42cc58d3adf4d0836a5ab746ead576078fd2f68605c790500033776b0139"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "751d14b2cff7ae864f51d8fef6a8e3bbf832ca675acc7e6c03d9e582dd09ca2e"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "3dfda6ec6aa74caf8e61d0eae3a4caa210a487ae3ab357851520df62407a7912"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "77d4a460e1bcb940996cd50753f5d03828f9ebeddcee84deb406ff9c8253fc37"
+
+[[files]]
+file = "config/status-effect-bars.json"
+hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+
+[[files]]
+file = "config/tb-bone-drops.json"
+hash = "7c8f6595034c49671652a20b4d8e93af596b6510be5770b3dd743f5e10ee1999"
+
+[[files]]
+file = "config/techreborn/generators.json"
+hash = "734be3731d1972aef664fd75644dfbb8e4a376a8888420fc2560b65abb2700d7"
+
+[[files]]
+file = "config/techreborn/items.json"
+hash = "b4c488c2115b9a7f1905e081402921c3df5b796fceaaa59ff5ace88aaea8ce18"
+
+[[files]]
+file = "config/techreborn/machines.json"
+hash = "dc1cf8cc5e26f2df6800bb1c3b51f923d3313fef557d2505362a7562ecc08a0f"
+
+[[files]]
+file = "config/techreborn/misc.json"
+hash = "aaeb6d0faf6f2b0aa9580b763c9be1abcbdb789038e7599296b671bbedabed67"
+
+[[files]]
+file = "config/techreborn/world.json"
+hash = "67a275aa2434508b06f2f8d08e35d75d7fe831728ae4851b5497b8b5067ccfda"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
+
+[[files]]
+file = "config/terrestria/biome.json"
+hash = "fc8e9dab1eb7464cfbcff2528e7a9935279c889defef59c6245a04cbfdfd8664"
+
+[[files]]
+file = "config/terrestria/client.json"
+hash = "b27c3c93c0daa36f2e8de359c5118fc1e85f5fc379557d124b5237019ab32beb"
+
+[[files]]
+file = "config/terrestria/general.json"
+hash = "37b871cd3a0e56564ee751be6e3b6e1c6b49b0a34b4fe75448f572ce25d24236"
+
+[[files]]
+file = "config/totally_lit/campfires.json5"
+hash = "64eeb4737db23375b0c11859545649d1cfef3fd9339332fae2a77b8cc1de0a85"
+
+[[files]]
+file = "config/totally_lit/candles.json5"
+hash = "c30259f593f8636f9aa50bd8d4f1fbeb313f1b755683d2a4ac0c779284f1fac4"
+
+[[files]]
+file = "config/totally_lit/jack_o_lanterns.json5"
+hash = "2fff21ee7dc69bc0c027c4e46a28a0a1eba61fcc8702a4f5887eecd0fe91da35"
+
+[[files]]
+file = "config/totally_lit/lanterns.json5"
+hash = "2fff21ee7dc69bc0c027c4e46a28a0a1eba61fcc8702a4f5887eecd0fe91da35"
+
+[[files]]
+file = "config/totally_lit/torches.json5"
+hash = "2bde4d39374449b1d69e76e0bdcd4b845b2327c4c27df80848572882bc6c07f4"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+
+[[files]]
+file = "config/traverse/biome.json"
+hash = "e54af6ff51f52bffcbacd1a0df7b882ec54e54ada65077ae4a0e6b31aa805d4e"
+
+[[files]]
+file = "config/turtlematic-common-1.toml.bak"
+hash = "af3e79e6102fc5a47289c03d6207c3be8a0d7f5450183fab5d3f6c458bb7a3be"
+
+[[files]]
+file = "config/turtlematic-common.toml"
+hash = "c73eb0d463f098575b6f9e6358d9822b4d043578352f3adf3d535e47320af7d3"
+
+[[files]]
+file = "config/untitledduckmod.json"
+hash = "6641317fbdfebfa6dc84e091ebe4e1856557f141029095b10481e47e502c74db"
+
+[[files]]
+file = "config/visuality.json"
+hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
+
+[[files]]
+file = "config/vsas_config.txt"
+hash = "40eedfec98addbf8a429904b50d1ffb7eb2622a6762f098d82e62477df013510"
+
+[[files]]
+file = "config/vulkanmod_settings.json"
+hash = "9163b174075cba8dd66c3fa8bb5cb01bda652c926c82fcaeab93b591369bee03"
+
+[[files]]
+file = "config/waterdripsound.json"
+hash = "35e737eb183cc67b0fb09683d25c573ed3136075a38afba235bb64deb84af39b"
+
+[[files]]
+file = "config/waystones.toml"
+hash = "6efb18c00b43f14fcc908018244e91a8a93e27935feaf5bd44811314d37feb4a"
+
+[[files]]
+file = "config/wmch.json"
+hash = "1e758f4b9e16b4293c548c61970780a2caa359b6e6fe8a1b30ac18289b9b4048"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "f188e56696e65b1195148d74d1e271ac22e69ab12fe66c3ee5d401e111f4f7d9"
+
+[[files]]
+file = "config/worldeditcui.config.json"
+hash = "3b87f6b964dc2367e9df9c8a472f194cfc03c7d3e55f5cad7245a918af5424a9"
+
+[[files]]
+file = "mods/1.19.x-wmch-1.19.2-1.5.5.jar"
+hash = "2487c38a87e3c58f47d4c41c24b646a177974a616e3c9eb49fd6610c5b72de4a"
+
+[[files]]
+file = "mods/3dskinlayers-fabric-1.5.1-mc1.19.1.jar"
+hash = "058bfb8bf96db22f5c0820dbf6fd69cbd3b867e804fe9984369d4127be63b5d4"
+
+[[files]]
+file = "mods/AE2WTLib-12.8.4.jar"
+hash = "d2d4315882d0e26ad75ee7cd19dba9744774c35d478cf260f28da46e9baaaa32"
+
+[[files]]
+file = "mods/AdditionalEnchantedMiner-1.19-fabric-19.1.0.jar"
+hash = "915fa0764d4db2032d74624db0be5ecb0dc67bafc82e290cfb77669a3e960397"
+
+[[files]]
+file = "mods/Campanion-fabric-1.19.2-4.1.2+fabric.jar"
+hash = "5be2bbd0ad93adfc0642c9eea188a2b59bae566fb20e97065603d612dc81f0b6"
+
+[[files]]
+file = "mods/ClearDespawn-fabric-1.19.2-1.1.10.jar"
+hash = "bc5cc53370d8812a7ff5c9cec1c2c3051265592f53ffc7b0813457258a3c6eb8"
+
+[[files]]
+file = "mods/Couplings-1.9.1+1.19.jar"
+hash = "1801a4a94fbbb4cb22cdd9e152ebb9bdc735fa2840863c9c70218f5faf49cb3e"
+
+[[files]]
+file = "mods/CreativeCore_FABRIC_v2.9.3_mc1.19.2.jar"
+hash = "f0450a05b7a45d7becd650052e65042511deb8ea301a50c8dee3df01eb04c028"
+
+[[files]]
+file = "mods/EnhancedQuarries-1.19-1.2.3-alpha.jar"
+hash = "ae32f874ee8a8d09ebc2ab035b86456948cfcb4f90c44586c1f9bc2f15a5e9d9"
+
+[[files]]
+file = "mods/FabricShieldLib-1.6.0-1.19.jar"
+hash = "6d31a6f688d322e93fe7396baada39af18f0464b51e65a9133458cb2ecadb223"
+
+[[files]]
+file = "mods/FallingTree-1.19.2-3.10.0.jar"
+hash = "01678e8856e04e5ed3fe24fefd771f137e6adca7c6f34dde628c6d38ac296a39"
+
+[[files]]
+file = "mods/FiltPick-fabric-mc1.19.2-0.1.0.jar"
+hash = "fdc3a629bd71953fe3a7d098b62086fc62c446e957055f1f30f93b5cec382b91"
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v4.2.7-1.19.2-Fabric.jar"
+hash = "0c93636da83bca1eb4b80351b80aaa8fa178f6568038d07f905cd8be4a059fb9"
+
+[[files]]
+file = "mods/InvMove-1.19-0.8.1-Fabric.jar"
+hash = "39ee045a824ddbe42a8535d316b54dbda33c6d94cad7f8b48370c850abe688c4"
+
+[[files]]
+file = "mods/InventorySorter-1.8.10-1.19.jar"
+hash = "b8769b94b81ad1ea5b89d7e6f86211854b4c04904ecdf95e52dd4a8f75eecf67"
+
+[[files]]
+file = "mods/ItemPhysic_FABRIC_v1.6.6_mc1.19.2.jar"
+hash = "e268c4e1367ca4f38543f623d12f455f3bda9b12e92a74ed855dc508a72f3e66"
+
+[[files]]
+file = "mods/Mimic-fabric-1.19.1-1.2.38.jar"
+hash = "6b1a94d4810a0b4a136bb6d8d0feb919c77527f58db66b8dc14a4a12bc746661"
+
+[[files]]
+file = "mods/MixinConflictHelper-1.2.0.jar"
+hash = "4d6337d2220d6c26581352f25a2b4eebc0717bd3731fbcd1865e2277dee604ba"
+
+[[files]]
+file = "mods/Modern-Dynamics-0.3.3-beta.jar"
+hash = "2ccb41cf700b9b8de80d6d6a0bbb532c0ab225e6ae3cfe87cbb16fe3f86594ce"
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc1.19-2.22.jar"
+hash = "de3013e75ff44d20d4f79e8d517d2485cfd4a23654a09c40eff5fee396b836d6"
+
+[[files]]
+file = "mods/Peripheralium-0.4.3-1.19.2.jar"
+hash = "1ee4488ea624c21b3d47c8d1c8d0127a2b5504a9faa4fdc10780c82b07b7e142"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.6.3.jar"
+hash = "8c79741515c0a1e1655c3f39c9e3d5468fa6b4597b7e65be5599d60054f4bee0"
+
+[[files]]
+file = "mods/RoughlyEnoughItems-9.1.574.jar"
+hash = "919d6404e883bbdb315864c87094abde68e2507d31611191f10f5a0e2197ee61"
+
+[[files]]
+file = "mods/TaxFreeLevels-1.3.jar"
+hash = "88ef7e2b1d12c25757d6a4bf756f790c3e13e8c7b897808cca350d86df8be7c8"
+
+[[files]]
+file = "mods/TechReborn-5.3.4.jar"
+hash = "20e0abb4e42d4b01d1da459f8f8c64373deb14a946daf151bb2a90c9e5d082ee"
+
+[[files]]
+file = "mods/TerraBlender-fabric-1.19.2-2.0.1.130.jar"
+hash = "f8027e645bb39ec6143cf1b942c493ddea9acf45874df093d6cdfaa0e0019e62"
+
+[[files]]
+file = "mods/Terralith_v2.3.5.jar"
+hash = "9b2e2b297d444331c475d685fbfa40bfe521bcc10d72dc7cd440dc1c829c563e"
+
+[[files]]
+file = "mods/WhatTheBucket-Fabric-1.19.2-7.0.1.jar"
+hash = "2ab6edcb904b0acb92c5dc709be514a16f980731a0f63a456073cece36968037"
+
+[[files]]
+file = "mods/WorldEditCUI-1.19.2+01.jar"
+hash = "880639ff5a85df2225e4cb73d28e22130bfbf78c8e1de4d11c915a58dc1668c1"
+
+[[files]]
+file = "mods/advanced-xray-fabric-1.19-1.1.0-build.12.jar"
+hash = "495e585924a0a21d181ea149e94a241ad74dbea22cad08ddd1d2d4befab6dd5e"
+
+[[files]]
+file = "mods/appliedenergistics2-fabric-12.8.5.jar"
+hash = "41113df3cc9824a38271e67849c681df0eb75f01b85f80b370414db7fbaaa9b3"
+
+[[files]]
+file = "mods/architectury-6.3.56-fabric.jar"
+hash = "95169ac6c9f61b45042f51228d2ecc82265d9bed3b137fce4601a0e9759e77fa"
+
+[[files]]
+file = "mods/balm-fabric-4.5.2+0.jar"
+hash = "64fc0abc6ab04d6570bedc15d610cec69990ad448401369b9ccb2a6cf26c42a4"
+
+[[files]]
+file = "mods/bedrockify-1.5.1+mc1.19.1.jar"
+hash = "8a2cc293b3b298833305c2e94ff6598daf88628397caebcdc20ff8adfaafcac8"
+
+[[files]]
+file = "mods/bedrockwaters-1.7.3+1.19.2.jar"
+hash = "50a19aeabc315c0078e93ece10cbada5bc43c0683f5d5646c5c99ce528b11602"
+
+[[files]]
+file = "mods/better_climbing-1.1.0-FABRIC.jar"
+hash = "e5ff789fccc20287a462d3b225fd39b89b28836c1718f36e9f0eb2bb5810e13a"
+
+[[files]]
+file = "mods/betterblockhitboxes-1.0.1+1.19.jar"
+hash = "cd65b8e4f3e219023e6adec9bad041fbc69a54d7a99d95d5e6992b4b5c8c4de0"
+
+[[files]]
+file = "mods/biome_temperature_control-1.1.0+1.19.2.jar"
+hash = "52eaf5b27c7dd14d6e26a85fffffd7f912cb5ff8c6f2b29960c5d7aa8d3e4b83"
+
+[[files]]
+file = "mods/bitsandchisels-2.7.0.jar"
+hash = "63166d5c18b443baaf79e5c60d349e9a2f78276b0474ee66aaef54e8648c6b9a"
+
+[[files]]
+file = "mods/blur-2.6.0.jar"
+hash = "a68c09c9c1417d2dc54bb4a21de176bb09b2cd90632c640f982f925ffe2d8a3a"
+
+[[files]]
+file = "mods/boat-with-everything-1.1.0.jar"
+hash = "e052a2b71c31e53cc3e0c4be442759653023d5f5d231777d520fe72d437f174a"
+
+[[files]]
+file = "mods/bodacious_berries-2.0.7+mc1.19.2.jar"
+hash = "91016ac1380d051e3d5a9e4f89304f436072b91513a4c2618b74e224a5f956ef"
+
+[[files]]
+file = "mods/bouncycastle-1.0.3+1.19.jar"
+hash = "4484186526fb9d7020411b2a742835df45b9c757c07722c79a86a846ed83df72"
+
+[[files]]
+file = "mods/cauldron-dyeing-1.0.4.jar"
+hash = "47be96de6728ebe399479e2eea2f7340b5819983668848b4737f09280914a977"
+
+[[files]]
+file = "mods/cave-enhancements-1.19.2-2.1.5-fabric.jar"
+hash = "77135115f9f84eef7158335092490fa296fdc79596a081ae12aafd6cac864611"
+
+[[files]]
+file = "mods/cc-restitched-1.101.2.jar"
+hash = "7f3b6cf847efbb1d6d941441fe7b6e65589752e2cb298c7590096f5303c84daf"
+
+[[files]]
+file = "mods/cinderscapes-3.0.3.jar"
+hash = "14e22d4e83cd828a18d0b10003dd89ac5fa55b765805bb56858daff83b573a01"
+
+[[files]]
+file = "mods/cleancut-1.19.2-5.1-fabric.jar"
+hash = "64dc65f4c8262b16b6645767d1914cdc74e6ea592393f0c310640dff991580d2"
+
+[[files]]
+file = "mods/clickthrough-1.19.1-fabric0.58.5-0.4.jar"
+hash = "d28b23d089e7b6f8e65e8df7eb0a78ee861f0b82380f01e296bd71b01674d71c"
+
+[[files]]
+file = "mods/cloth-config-8.2.88-fabric.jar"
+hash = "65af976a772733169ccdb63410580030584032fd297af16beed6a8c643ead003"
+
+[[files]]
+file = "mods/collective-fabric-1.19.2-5.16.jar"
+hash = "8eea7f1030de2fb499a3f70f50b3b569973c0ef0b5af81b00ee14205022046e8"
+
+[[files]]
+file = "mods/combustibleentities-1.1.0+1.19.2.jar"
+hash = "537d74c2e625949561d3a0970ba8bb82de189481400ab3c328302f6c49321dad"
+
+[[files]]
+file = "mods/comforts-fabric-6.0.3+1.19.2.jar"
+hash = "2c743c0d309d9fc823e1a6c727e08fa09e0b0969f9cb3139269d55ba36a34d5a"
+
+[[files]]
+file = "mods/consistency_plus-fabric-0.5.1+1.19.2.jar"
+hash = "2d5e9dfe7f493abc602a0c80b9c9a94878f0ffb5f16eceed33a70e0e0432b59c"
+
+[[files]]
+file = "mods/continuity-2.0.1+1.19.jar"
+hash = "e59efee5bc28b043cf5e1040dfa54c719153097c8519a9ef0c993dd1ff8ef46f"
+
+[[files]]
+file = "mods/conveyor-belts-1.8.1-MC1.19.jar"
+hash = "7bf8bb3d9b75e06851160a29740468a7627fc78f52ef16f0a4bd1efbb9e84117"
+
+[[files]]
+file = "mods/crawl-0.11.1.jar"
+hash = "a37a62fc91cf0234ddc3e825b67da02047a406bca7af3a9f102744e724916505"
+
+[[files]]
+file = "mods/crops_love_rain-1.3.0.jar"
+hash = "f2e15f1682fb048ad2ad2b86e3e2b96d24087ef2993de9d586f40a73ced0d3e9"
+
+[[files]]
+file = "mods/darkness-fabric-mc119-2.0.98.jar"
+hash = "31d13672fc1b157cb9aa6834d869b2eb49514ae69ef238beb2961a0bc5da83f0"
+
+[[files]]
+file = "mods/denseores-1.2.3+1.19.jar"
+hash = "888460a3b3be46185030351d1fe8680666314d0ddcf6ff64b3dc20fff9d3cb56"
+
+[[files]]
+file = "mods/despawningeggshatch-fabric_1.19.2-2.9.jar"
+hash = "dfd778375d72facbf08839cb239c3a689f25225ace9f3fc6445b86227b96b9db"
+
+[[files]]
+file = "mods/diamondrails-1.0.0.jar"
+hash = "023c25fea809044cbe46c2a96fa5ab3a89139b7a6dcbfcb6a1414616561c0eb1"
+
+[[files]]
+file = "mods/earthtojavamobs-fabric-mc1.19-1.9.0+1.19.jar"
+hash = "b408bb82134dc592910d82e416c7a4538a34e99f7e791269ad907a27a9818ebf"
+
+[[files]]
+file = "mods/eating-animation-1.9.jar"
+hash = "648e61404643bcc8fa109f6a5b25513cd84edb8993658b2a45c72e02e57c0678"
+
+[[files]]
+file = "mods/eldritch-mobs-1.12.10.jar"
+hash = "d39b0a602dcb06db7effaa7d1eff77ee4640f870c84fb1834e5bb7d74fd76646"
+
+[[files]]
+file = "mods/expandeddelight-0.2.5.jar"
+hash = "2c7954669ca8387cf97e3c58b1428ea64bb531ef63178ce4fe7a8d326ab2a09e"
+
+[[files]]
+file = "mods/experiencebottler-1.19+build.1.jar"
+hash = "ce51482a988e37d374f31d72e8a85af236e2d2ca01426a16a69a2aadec459228"
+
+[[files]]
+file = "mods/extraalchemy-fabric-1.19.2-1.9.0.jar"
+hash = "bf1e06da65c6529f0ededb7b48b6b0a0770c6fa1d809058f232291e162004f01"
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar"
+hash = "baeae063e954496ccbbdb986523af815df8ba90c7920573359adba0ebcf34ea9"
+
+[[files]]
+file = "mods/fabric-release-regrowth-1.19-31.0.0.jar"
+hash = "b7db7db35cfab5b50b53d243cc94906f2170bf394388aa068b6df70a15e4a204"
+
+[[files]]
+file = "mods/fabric-seasons-1.4-BETA+1.19.jar"
+hash = "e7201659c3b4c921a9e4510044ffdbbd174deb078c2da4f10069052e8813e320"
+
+[[files]]
+file = "mods/fallingleaves-1.13.0+1.19.2.jar"
+hash = "9a647a91a3332fd1e57a2319d6b7c6b83adc64e22a7f79e2ece41583b06038e9"
+
+[[files]]
+file = "mods/farmers-delight-fabric-1.19.X-1.3.9.jar"
+hash = "a105813fcf51184f56cd3db3211be95a3d76aa3b57959fb1726c84d1cf0bb024"
+
+[[files]]
+file = "mods/ferritecore-5.0.3-fabric.jar"
+hash = "ebb90e7d95a5405c20312459d03234519ab5202a501c34bef73eca9db82434c7"
+
+[[files]]
+file = "mods/firstperson-fabric-2.2.0-mc1.19.2.jar"
+hash = "f1a61ea46e6d1cc7cf50ec638f5a0611f4860eaeedc8ac8c9b708a19905ef183"
+
+[[files]]
+file = "mods/geckolib-quilt-1.19-3.1.38.jar"
+hash = "ae1bcda55bca848dbeaec8fe347c7ea11e20d524c67006fa7affbe5fca60eca6"
+
+[[files]]
+file = "mods/giant-crops-1.0.0.jar"
+hash = "4b8edf05c987f1fd4042b3599891a6cda7a06f37629aae41d18ed834e48dbc3e"
+
+[[files]]
+file = "mods/guarding-1.19.2+2.2.0.jar"
+hash = "2fe7a480a38501f83e9a99e56734ff0a63e7253ecf7d7b864a08e30183f8cebb"
+
+[[files]]
+file = "mods/half-doors-1.3.9+1.19.x.jar"
+hash = "32ad7e2e2dd9a34925432feed09704e58888371497cc2721a319e09680791ee9"
+
+[[files]]
+file = "mods/harvestseason-1.19.2-1.2.1-fabric.jar"
+hash = "eae89181b20d6b2afd9fc4ea12c31e999595055e14fd9a355b581d933fef9d5a"
+
+[[files]]
+file = "mods/immersive-portals-2.3.1-mc1.19.2-fabric.jar"
+hash = "9bfce41d93fe1792f7f03766c0212634d68e7cad29fb7a5d9bd30d142654d32d"
+
+[[files]]
+file = "mods/indium-1.0.9+mc1.19.2.jar"
+hash = "e0bee321e771ca46c4117a469cd916a71f8ce44cbfd35c006425775edfb79b50"
+
+[[files]]
+file = "mods/iris-mc1.19.2-1.4.3.jar.disabled"
+hash = "c2860349374fee9d2dadd99a21406e551ccaaf84155e288c7df9aae30d1b1424"
+
+[[files]]
+file = "mods/jamlib-0.5.0.jar"
+hash = "88431c9ef45795c46022e346f1aae5d344514c8f7b25f4435524918abbeb5166"
+
+[[files]]
+file = "mods/kubejs-fabric-1902.6.0-build.128.jar"
+hash = "b05d17a4528aa79a32a4a8cec86c721a44993bf4527ec86ad5c8ed3fa89c0afb"
+
+[[files]]
+file = "mods/lambdynamiclights-2.1.2+1.19.jar"
+hash = "153699d6e60673e203da65c10c0f40e9502e0cc775d35f594a4acab4afd77b26"
+
+[[files]]
+file = "mods/lanterns-belong-on-walls-1.4.0-1.19.jar"
+hash = "d00ac886bb8e0c4598cfe888a3c6a4621a74820a0931288960a3949b77c62416"
+
+[[files]]
+file = "mods/lapisreserve-1.0.8.jar"
+hash = "8dc1fdafea90d02906953e9af453072c7b6e3dd7eabc2aff4b243ee42675b96b"
+
+[[files]]
+file = "mods/liberty-villagers-mod-1.0.4+1.19.2.jar"
+hash = "fb3a216621331cde0154774c0f4725d61921e3476f83ad9179a9af914d7fd32c"
+
+[[files]]
+file = "mods/lithium-fabric-mc1.19.2-0.10.2.jar"
+hash = "5688ad4f02b9682ca57c1ed5685969a31b0961e82b24517646a08dcd95d9fc65"
+
+[[files]]
+file = "mods/lootjs-fabric-1.19.2-2.7.7.jar"
+hash = "634dac00a90086fe777c11e1ddc4486c8cd9246b7de15885fc6fd26121fa54e1"
+
+[[files]]
+file = "mods/lunade-copper-pipe-1.11.4.jar"
+hash = "6eb7260cb684fe06e226b3b2ff1d969ab322bdce7ca88e76bf5f9746172722ee"
+
+[[files]]
+file = "mods/make_bubbles_pop-0.0.2-1.19.jar"
+hash = "098950160bf5767df4a0f99c1c618ac6256d4e77aeb41be5c8363cb3cc061200"
+
+[[files]]
+file = "mods/mcw-bridges-2.0.5-mc1.19.2fabric.jar"
+hash = "afa742ef79be108adbbb507bbdd0f560e94f205b59751a9e9823dfdace0faa63"
+
+[[files]]
+file = "mods/mixintrace-1.1.1+1.17.jar"
+hash = "26ca21a27706cfa4561868f31c4fd07c542e8cc759419f5884ddff1f3a126a99"
+
+[[files]]
+file = "mods/modmenu-4.1.1.jar"
+hash = "03c11ab966b7bc860cb6a756463caf69322ba379eac2bae754bfcfbe5c5f253f"
+
+[[files]]
+file = "mods/moonlight-1.19.2-2.1.9-fabric.jar"
+hash = "86b0560cd278063c8bfbb328bce6af476fdebfa3b52a70b33fcc00d9c5af51e6"
+
+[[files]]
+file = "mods/moreberries-1.5.1.jar"
+hash = "6f65d4cea558605453569b4058d362aeb398764ac3a26d5db81e74284c2e8e0b"
+
+[[files]]
+file = "mods/morevillagers-fabric-1.19-4.0.2.jar"
+hash = "ce9c6fc2a1c400c67a1898548bb8cc6a911f56e39af012b54d3bd1fc5e215135"
+
+[[files]]
+file = "mods/music-box-v1.0.1+1.19.2.jar"
+hash = "47288f54294cc9fcd4d6bb83453a5949c57c08c1fcfde374c1e5760939fa0e86"
+
+[[files]]
+file = "mods/myrtrees-fabric-1.2.0-build.31.jar"
+hash = "8f655c4be254b099ea53a1de3d96cc31ea33acc379363e5fc10fa0d08b686609"
+
+[[files]]
+file = "mods/notenoughanimations-fabric-1.6.2-mc1.19.2.jar"
+hash = "91f18c75d303159afc5a9b8e0352ddc4c23c7f10e96faf0076080662ba72dcda"
+
+[[files]]
+file = "mods/notenoughcrashes-4.1.8+1.19.2-fabric.jar"
+hash = "6bdf174d899905cf8596bd48195852c5cba4d59d5d9786481c6fabb9f31bb957"
+
+[[files]]
+file = "mods/npc-variety-1.19.2-2.2.2.jar"
+hash = "d49f94cc86d8a43df236a1dcb0bea3c6eab90819879b26c82bdcef55b56d2b4b"
+
+[[files]]
+file = "mods/owo-lib-0.9.2+1.19.jar"
+hash = "ec63e550d7390fbb63099e585b8cc01ab8f76af8bd7009de73812171a18f94da"
+
+[[files]]
+file = "mods/passableleaves-1.3.0.jar"
+hash = "5dffcb59e09059d548489e578214d2649a946fe91c93162f7f7732359dd8178b"
+
+[[files]]
+file = "mods/pathunderfencegates-1.2.1.jar"
+hash = "71405d2b024d5a8b602649c026a5825ecb900364f4b16b0e316d0fb041d1e301"
+
+[[files]]
+file = "mods/peripheralworks-0.2.1.jar"
+hash = "606bb27b8308530445965360a04c117938359f16574696cdda94d27301bbba1b"
+
+[[files]]
+file = "mods/pluckablearrows-1.2.3+1.19.2.jar"
+hash = "f38f885464d76e737e56a9cb8515d3654e28aaef8cd7df6255465315dad41130"
+
+[[files]]
+file = "mods/precise_armor-1.0.jar"
+hash = "05078cc4144cd8844204a17b50e7f1b73038c883f6d2c4b23d5eaefe158451d5"
+
+[[files]]
+file = "mods/qfapi-4.0.0-beta.23_qsl-3.0.0-beta.22_fapi-0.68.0_mc-1.19.2.jar"
+hash = "3d7cf8d2ebfa1691e24c3583923d3f2d37f501a8309bf3a0f97453474a285d27"
+
+[[files]]
+file = "mods/quarry-reborn-1.19-1.0.2.jar"
+hash = "98933d996c8250a62501f0dc0bb69e4205b4dccd9db400535e3297c0ef15c834"
+
+[[files]]
+file = "mods/quicksand-1.2.1+fabric-mc1.19.jar"
+hash = "a31d77b7e0fda3f3b4b7ed53c10a3bf4090c3649254cd427989e19e1231bbff5"
+
+[[files]]
+file = "mods/replant-swamp-trees-mc1.19.2-v0.0.2.jar"
+hash = "d7ada6eec68b172047c0904f156a4aa38d7ab3e295c608dd7ea5c902cbd2a67e"
+
+[[files]]
+file = "mods/rhino-fabric-1902.2.2-build.264.jar"
+hash = "96a810daf5b085ba8545d48189aea23c2d8f956ed99c9e71835945b3496cab5c"
+
+[[files]]
+file = "mods/right-click-harvest-3.0.6.jar"
+hash = "a4a3e0dba4c431800ec679c8ee90c646b45bdafc08469194ea91aadd9a549869"
+
+[[files]]
+file = "mods/riverredux-0.3.0+fabric.jar"
+hash = "f87141182de9e5cd922732a24b086b8322a007f983704eba82e4d597ec5ddf32"
+
+[[files]]
+file = "mods/show-me-your-skin-1.3.4+1.19.jar"
+hash = "1b41ce01b35f6169bbc01ca3bf7cc3f6153ba0396278bd43ece12bb17841b9cd"
+
+[[files]]
+file = "mods/sit-1.19.2-20.jar"
+hash = "ed2001cd169b8f378e1d77547befa3482a32f2f43fe94b92ffdd598f5513cf2c"
+
+[[files]]
+file = "mods/sleepwarp-1.2.0+1.19.jar"
+hash = "544371f1bf072a1317f3e60e90f4d0b5a6700d5941b6fa53d905f24f4c32aa2b"
+
+[[files]]
+file = "mods/smart-crafting-table-3.0.0.jar"
+hash = "e4c6c6d134e23c515c130ec8c8fea92d3be15a267c8766497734cc2cc5300699"
+
+[[files]]
+file = "mods/smarterfarmers-1.19.2-1.7.0-fabric.jar"
+hash = "e924377f0dade33e3f676b9b7419a983f77fded465fbd7f58c3a3bd2bd774ac9"
+
+[[files]]
+file = "mods/smokeextender-1.5.0-FABRIC-1.18.jar"
+hash = "510d436f2e908d024d3a0746260c1be0f1598fa7eea9464adb5399ca651dfa70"
+
+[[files]]
+file = "mods/smoothboot-fabric-1.19-1.7.1.jar"
+hash = "335d680c9e9d8016b2cf3019f3b0799ea1ad9c8b08b3f37187234abf7b4e0c1d"
+
+[[files]]
+file = "mods/snowyleavesplus-0.1.3.jar"
+hash = "65a0cdfeaadc45387fe89bc062ebf2b1a799631fc43660a423c1d45b6b6548f1"
+
+[[files]]
+file = "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+hash = "12ecf3a81bcc18ae87e879124ccbc5d079e500be10e238bf61f56da5c3f7cf53"
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks-3.1.0.jar"
+hash = "5e676a71499859d1a83af7d1b1cbf9b3c8f088d826cfdeb297d32f8e8d95e0bb"
+
+[[files]]
+file = "mods/soundphysics-fabric-1.19.2-1.0.15.jar"
+hash = "7d8a7c2f2ec1280bf699c8a515336dcd66347215b4a8bd4f8ec472e38401e1a3"
+
+[[files]]
+file = "mods/spiderstpo-fabric-1.19.2-2.0.2.jar"
+hash = "0db0efbe6ee9e9993ce4f7103ec80b9f05080fbdaec653cfcef161ee67e700b3"
+
+[[files]]
+file = "mods/sprinks-1.0.2.jar"
+hash = "43b2adae214d1d98de29223d76cbc52186eb46c20c0741a84e208a0d504ba2c4"
+
+[[files]]
+file = "mods/stackrefill-fabric_1.19.2-3.2.jar"
+hash = "a9485f2da635ea8ef19db04a8418efa298780362853b6b70b6f9f3f55b858648"
+
+[[files]]
+file = "mods/starlight-1.1.1+fabric.ae22326.jar"
+hash = "f2dd6682941326a833aaba868339b4ad9c93882fdef4447120ca0a8dea633a42"
+
+[[files]]
+file = "mods/status-effect-bars-1.0.1+1.19.jar"
+hash = "55f2342a8f488b55eab65c1df9e79e7e072d02a95ebd2f6c07f308a0154d1f63"
+
+[[files]]
+file = "mods/tb-bone-drops-1.2.0.jar"
+hash = "59e6d85d9217f7372515086b70ccda62d48cb3a65d5e06cc3e14dc6ef06d5dcb"
+
+[[files]]
+file = "mods/tectonic-mod-mc1.19-v1.0.3a.jar"
+hash = "6e77a7478100ab7291f758a71ffd670b3ae3d5998dd6b4d1250ab85274790333"
+
+[[files]]
+file = "mods/terrestria-5.0.7.jar"
+hash = "0b08144a8f9d2cd58b5d4c3ad8c96476394cf0f8d878ffb610d1fc9c9eb4c0ab"
+
+[[files]]
+file = "mods/totally_lit-0.11.0+1.19.jar"
+hash = "3730e583af5006dc784b286aaba2d91f2ec5e83851b8487fe68eb548b9b3ff91"
+
+[[files]]
+file = "mods/traverse-6.0.6.jar"
+hash = "e1d5b5c7e74352aa90a3fcf62e74772783c47be7923925a833fbce04673047c0"
+
+[[files]]
+file = "mods/trinkets-3.4.0.jar"
+hash = "5193b0be1694bfb7aa667eeacffeb3f8abd3d221fa84f62703820c9e0dcfd195"
+
+[[files]]
+file = "mods/turtlematic-0.4.4_recompiled.jar"
+hash = "38d0a118ab163d51c2012bb75c1fe4569ce64ef974f7ffc8c8cacc7b74c518a6"
+
+[[files]]
+file = "mods/untitledduckmod-0.6.1-1.19.2-fabric.jar"
+hash = "f8902e363ecbf277c8cabe3b3367e35358fefe3a89ed1388389b67dd89a0e40b"
+
+[[files]]
+file = "mods/variableknockback-1.0.0+1.19.2.jar"
+hash = "d31a66216975023e35b96286c053cff9447de30005eb73ee4f74eb6fee8ec815"
+
+[[files]]
+file = "mods/variant_bookshelves-1.2.3.jar"
+hash = "01558aedba69fe01d79ac8bc5b6e6da6075a46b23720cf1dd12e6350bd05f81b"
+
+[[files]]
+file = "mods/variant_grindstones-1.1.2.jar"
+hash = "f67bd184d1f689592f6bb5a9f8e5c3f785eab8881a3114b25812c0f7ed8dadc2"
+
+[[files]]
+file = "mods/variant_lanterns-1.0.3.jar"
+hash = "71822191824067529e4776b54b315d36c0dc53c39a55d221201a97fb1b853c2c"
+
+[[files]]
+file = "mods/variant_shields-1.0.3.jar"
+hash = "5feca5f77094060c195a9038ea8de04dcbfddba29e314b6a41037a8a973c21c0"
+
+[[files]]
+file = "mods/variantcomposters-1.0.7.jar"
+hash = "192874025e748412f7cfd623acc0e3517bbbe325d623bba443456649d30cd793"
+
+[[files]]
+file = "mods/variantcraftingtables-3.2.8.jar"
+hash = "f6df10fca789d04a90a6d7f7f4976a93ebd1ab0d63d00973a4a9050f09896e76"
+
+[[files]]
+file = "mods/vehiclefix-3.4.jar"
+hash = "a40b5465c3e5ed5920d58292f9e685e21d1253601057a0adbe7cf8e9e8c71ce8"
+
+[[files]]
+file = "mods/visuality-0.5.5.jar"
+hash = "9c0905da99b46e96ccb91af83144364dd220c28472ae0e5267219cec3006a17d"
+
+[[files]]
+file = "mods/vsas-2.2.jar"
+hash = "f0a3fec84d9430a667d2f329f237e888cecec44626e81dd4041401da2b313bc9"
+
+[[files]]
+file = "mods/waystones-fabric-1.19-11.1.0.jar"
+hash = "e4cade9b5e80d8c45646fd9072f3483ef600518ffef8822a9151d0213b5044d2"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.12.jar"
+hash = "1426645459fa4a0bedfeddf2aa0e69416d9676dc022aaf879333aea89d7794dd"
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "c94d166cdc40f437bdb36d1f2d07991de077f0a95d00a080835a35f470781c6c"
+metafile = true

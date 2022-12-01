@@ -1,0 +1,176 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				panda = true
+				axolotl = true
+				bee = true
+				egg = true
+				zoglin = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				allay = true
+				skeleton = true
+				llama = true
+				bat = true
+				husk = true
+				frog = true
+				hoglin = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				goat = true
+				ocelot = true
+				horse = true
+				phantom = true
+				minecart = true
+				leash_knot = true
+				llama_spit = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				wolf = true
+				villager = true
+				skeleton_horse = true
+				zombie_villager = true
+				elder_guardian = true
+				small_fireball = true
+				boat = true
+				strider = true
+				polar_bear = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
+			[light_sources.settings.entities.halfdoors]
+				door_saw = true
+
+			[light_sources.settings.entities.immersive_portals]
+				nether_portal_new = true
+				loading_indicator = true
+
+			[light_sources.settings.entities.cave_enhancements]
+				dripstone_tortoise = true
+				cruncher = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				piebald_pig = true
+				muddy_foot_rabbit = true
+				dairy_cow = true
+				pink_footed_pig = true
+				cream_cow = true
+				flecked_sheep = true
+				spotted_pig = true
+				midnight_chicken = true
+				umbra_cow = true
+				skeleton_wolf = true
+				rainbow_sheep = true
+				gold_crested_chicken = true
+				mottled_pig = true
+				bold_striped_rabbit = true
+				long_nosed_sheep = true
+				amber_chicken = true
+				freckled_rabbit = true
+				muddy_pig = true
+				wooly_cow = true
+				bouldering_zombie = true
+				ashen_cow = true
+				sooty_pig = true
+				vested_rabbit = true
+				patched_sheep = true
+				bronzed_chicken = true
+				jumbo_rabbit = true
+				moobloom = true
+				melon_golem = true
+				stormy_chicken = true
+				horned_sheep = true
+				harelequin_rabbit = true
+				rocky_sheep = true
+				pinto_cow = true
+				cookie_cow = true
+				fuzzy_sheep = true
+				bone_spider = true
+				albino_cow = true
+				jolly_llama = true
+				fancy_chicken = true
+				moolip = true
+				inky_sheep = true
+				tropical_slime = true
+				sunset_cow = true
+				skewbald_chicken = true
+				lobber_zombie = true
+				pale_pig = true
+
+			[light_sources.settings.entities.untitledduckmod]
+				goose = true
+				duck = true
+
+			[light_sources.settings.entities.mimic]
+				mimic = true
+
+			[light_sources.settings.entities.sit]
+				entity_sit = true
+

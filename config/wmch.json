@@ -1,0 +1,18 @@
+{
+  "time": true,
+  "timeStr": "[HH:mm:ss]",
+  "timeFormat": "",
+  "timeColor": 16733695,
+  "hover": true,
+  "hoverStr": "MM/dd/yyyy",
+  "counter": true,
+  "counterStr": "\u00268(\u00267x\u0026e$\u00268)",
+  "counterColor": 16777045,
+  "boundary": true,
+  "boundaryStr": "\u0026b[\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d]",
+  "boundaryColor": 5636095,
+  "saveChat": false,
+  "shiftHudPos": true,
+  "nameStr": "$:",
+  "maxMsgs": 16384
+}

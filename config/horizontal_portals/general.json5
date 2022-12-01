@@ -1,0 +1,18 @@
+{
+	/* 
+	   
+	   ---------------------------------
+	   Horizontal Portals Config
+	   All of the values are "true" by default. Set to "false" to disable.
+	   ---------------------------------
+	*/
+	"horizontalNetherPortal": true,
+	"verticalEndPortal": true,
+	"verticalEdenPortal": true,
+	"horizontalEdenPortal": true,
+	"horizontalMiningDimPortal": true,
+	"horizontalHuntingDimPortal": true,
+	"horizontalCavingDimPortal": true,
+	"horizontalNetheringDimPortal": true,
+	"horizontalClimbingDimPortal": true
+}
