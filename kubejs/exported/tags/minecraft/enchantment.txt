@@ -1,0 +1,27 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 22, 2022, 6:22:41 PM
+
+#c:weapon_damage_enhancement
+- minecraft:bane_of_arthropods (from Quilted Fabric Convention Tags API (v1))
+- minecraft:impaling (from Quilted Fabric Convention Tags API (v1))
+- minecraft:smite (from Quilted Fabric Convention Tags API (v1))
+- minecraft:power (from Quilted Fabric Convention Tags API (v1))
+- minecraft:sharpness (from Quilted Fabric Convention Tags API (v1))
+
+#c:entity_movement_enhancement
+- minecraft:swift_sneak (from Quilted Fabric Convention Tags API (v1))
+- minecraft:depth_strider (from Quilted Fabric Convention Tags API (v1))
+- minecraft:soul_speed (from Quilted Fabric Convention Tags API (v1))
+
+#c:looting
+- minecraft:looting (from Quilted Fabric Convention Tags API (v1))
+
+#c:entity_defense_enhancement
+- minecraft:feather_falling (from Quilted Fabric Convention Tags API (v1))
+- minecraft:protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:blast_protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:projectile_protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:fire_protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:respiration (from Quilted Fabric Convention Tags API (v1))
+
+#c:fortune
+- minecraft:fortune (from Quilted Fabric Convention Tags API (v1))

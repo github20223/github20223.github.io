@@ -1,0 +1,41 @@
+ 
+//This example makes a bedrock box around creepers when they spawn
+// EntityEvents.spawned
+// (
+// event => 
+//     {
+//         Utils.server.runCommandSilent(`tell @a Entity spawned!`)
+
+//     }
+// )
+
+const Seasons = Java.loadClass('io.github.lucaargolo.seasons.FabricSeasons')
+const Season = Java.loadClass('io.github.lucaargolo.seasons.utils.Season')
+
+LevelEvents.tick
+(
+event => 
+    {
+        // So this is probably not be the best way to test if a world is the overworld, or if it supports seasons
+        // but it works for now, there is probably an easy way to get the dimension type that I'm missing
+        // Prints info about the levels dimension type
+        //Utils.server.runCommandSilent("tell @a The level name is " + event.getLevel().dimensionType())
+        
+        // JANK
+        let isOverworld = event.getLevel().dimension().toString() == "ResourceKey[minecraft:dimension / minecraft:overworld]"
+        
+        if(isOverworld)
+        {
+            let season = Seasons.getCurrentSeason(event.getLevel())
+            Utils.server.runCommandSilent("tell @a The season is " + season)
+            
+            // if(s == "WINTER")
+            // {
+            //     Utils.server.runCommandSilent("tell @a The dimension info is " + event.getLevel().dimensionType())
+            //     Utils.server.runCommandSilent("tell @a The dimension type is " + event.getLevel().dimension().toString())
+            // }
+        }
+
+    }
+)
+

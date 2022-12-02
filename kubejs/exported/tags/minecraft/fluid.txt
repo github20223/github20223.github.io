@@ -1,0 +1,20 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 22, 2022, 6:22:41 PM
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+
+#totally_lit:torch_igniters
+- #c:lava (from Totally Lit)
+
+#ae2:blacklisted/annihilation_plane
+
+#c:water
+- #minecraft:water? (from Quilted Fabric Convention Tags API (v1))
+
+#c:lava
+- #minecraft:lava? (from Quilted Fabric Convention Tags API (v1))

@@ -1,0 +1,136 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 22, 2022, 6:22:41 PM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned (from Default)
+- minecraft:guardian (from Default)
+- minecraft:elder_guardian (from Default)
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray (from Default)
+- minecraft:polar_bear (from Default)
+- minecraft:snow_golem (from Default)
+- minecraft:wither (from Default)
+
+#minecraft:impact_projectiles
+- #minecraft:arrows (from Default)
+- minecraft:snowball (from Default)
+- minecraft:fireball (from Default)
+- minecraft:small_fireball (from Default)
+- minecraft:egg (from Default)
+- minecraft:trident (from Default)
+- minecraft:dragon_fireball (from Default)
+- minecraft:wither_skull (from Default)
+
+#minecraft:beehive_inhabitors
+- minecraft:bee (from Default)
+
+#c:boats
+- minecraft:boat (from Quilted Fabric Convention Tags API (v1))
+- minecraft:chest_boat (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:skeletons
+- minecraft:skeleton (from Default)
+- minecraft:stray (from Default)
+- minecraft:wither_skeleton (from Default)
+
+#lunade:entity_event_listeners
+- minecraft:warden (from Simple Copper Pipes)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- #vsas:arrow_entity (from Variant Sticks and Stuff)
+
+#minecraft:frog_food
+- minecraft:slime (from Default)
+- minecraft:magma_cube (from Default)
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider (from Default)
+- minecraft:blaze (from Default)
+- minecraft:magma_cube (from Default)
+
+#tb-bone-drops:blacklist
+- minecraft:allay (from Totally Balanced Bone Drops)
+- minecraft:armor_stand (from Totally Balanced Bone Drops)
+- minecraft:bee (from Totally Balanced Bone Drops)
+- minecraft:blaze (from Totally Balanced Bone Drops)
+- minecraft:cave_spider (from Totally Balanced Bone Drops)
+- minecraft:creeper (from Totally Balanced Bone Drops)
+- minecraft:elder_guardian (from Totally Balanced Bone Drops)
+- minecraft:ender_dragon (from Totally Balanced Bone Drops)
+- minecraft:endermite (from Totally Balanced Bone Drops)
+- minecraft:ghast (from Totally Balanced Bone Drops)
+- minecraft:guardian (from Totally Balanced Bone Drops)
+- minecraft:iron_golem (from Totally Balanced Bone Drops)
+- minecraft:magma_cube (from Totally Balanced Bone Drops)
+- minecraft:pufferfish (from Totally Balanced Bone Drops)
+- minecraft:salmon (from Totally Balanced Bone Drops)
+- minecraft:shulker (from Totally Balanced Bone Drops)
+- minecraft:silverfish (from Totally Balanced Bone Drops)
+- minecraft:slime (from Totally Balanced Bone Drops)
+- minecraft:snow_golem (from Totally Balanced Bone Drops)
+- minecraft:spider (from Totally Balanced Bone Drops)
+- minecraft:tadpole (from Totally Balanced Bone Drops)
+- minecraft:tropical_fish (from Totally Balanced Bone Drops)
+- minecraft:vex (from Totally Balanced Bone Drops)
+- minecraft:wither (from Totally Balanced Bone Drops)
+- minecraft:wither_skeleton (from Totally Balanced Bone Drops)
+
+#c:bosses
+- minecraft:ender_dragon (from Quilted Fabric Convention Tags API (v1))
+- minecraft:wither (from Quilted Fabric Convention Tags API (v1))
+
+#farmersdelight:horse_feed_users
+- minecraft:horse (from Farmer's Delight)
+- minecraft:skeleton_horse (from Farmer's Delight)
+- minecraft:zombie_horse (from Farmer's Delight)
+- minecraft:donkey (from Farmer's Delight)
+- minecraft:mule (from Farmer's Delight)
+- minecraft:llama (from Farmer's Delight)
+
+#minecraft:raiders
+- minecraft:evoker (from Default)
+- minecraft:pillager (from Default)
+- minecraft:ravager (from Default)
+- minecraft:vindicator (from Default)
+- minecraft:illusioner (from Default)
+- minecraft:witch (from Default)
+
+#c:minecarts
+- minecraft:minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:tnt_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:chest_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:furnace_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:command_block_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:hopper_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:spawner_minecart (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit (from Default)
+- minecraft:endermite (from Default)
+- minecraft:silverfish (from Default)
+- minecraft:fox (from Default)
+
+#vsas:arrow_entity
+- vsas:acacia_arrow? (from Variant Sticks and Stuff)
+- vsas:birch_arrow? (from Variant Sticks and Stuff)
+- vsas:crimson_arrow? (from Variant Sticks and Stuff)
+- vsas:dark_oak_arrow? (from Variant Sticks and Stuff)
+- vsas:jungle_arrow? (from Variant Sticks and Stuff)
+- vsas:oak_arrow? (from Variant Sticks and Stuff)
+- vsas:mangrove_arrow? (from Variant Sticks and Stuff)
+- vsas:spruce_arrow? (from Variant Sticks and Stuff)
+- vsas:warped_arrow? (from Variant Sticks and Stuff)
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cod (from Default)
+- minecraft:squid (from Default)
+- minecraft:glow_squid (from Default)
+- minecraft:tadpole (from Default)
+
+#farmersdelight:dog_food_users
+- minecraft:wolf (from Farmer's Delight)
