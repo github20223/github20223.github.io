@@ -410,7 +410,7 @@ hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
 
 [[files]]
 file = "config/sleepwarp.properties"
-hash = "55c0f61d05ac9745e06a0b09aa38a7f5581ada1d733e5dbe950033637ce7b348"
+hash = "8f20bb99c6b5636940cf903369fe584138de219431c2653aed40dd0ce0b2a594"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -1081,8 +1081,8 @@ file = "mods/WorldEditCUI-1.19.2+01.jar"
 hash = "880639ff5a85df2225e4cb73d28e22130bfbf78c8e1de4d11c915a58dc1668c1"
 
 [[files]]
-file = "mods/appliedenergistics2-fabric-12.8.5.jar"
-hash = "41113df3cc9824a38271e67849c681df0eb75f01b85f80b370414db7fbaaa9b3"
+file = "mods/appliedenergistics2-fabric-12.9.1.jar"
+hash = "3bdfccac680e311199abe11fab92a8e575c39d3491be52caf67891d9e4f554cd"
 
 [[files]]
 file = "mods/architectury-6.3.56-fabric.jar"
@@ -1161,8 +1161,8 @@ file = "mods/cloth-config-8.2.88-fabric.jar"
 hash = "65af976a772733169ccdb63410580030584032fd297af16beed6a8c643ead003"
 
 [[files]]
-file = "mods/collective-fabric-1.19.2-5.16.jar"
-hash = "8eea7f1030de2fb499a3f70f50b3b569973c0ef0b5af81b00ee14205022046e8"
+file = "mods/collective-fabric-1.19.2-5.22.jar"
+hash = "7be2fdc4910d120ee1e3b2d9586a5c58921e8ec02fae71d42daf2eab71427a1e"
 
 [[files]]
 file = "mods/combustibleentities-1.1.0+1.19.2.jar"
@@ -1357,8 +1357,8 @@ file = "mods/modmenu-4.1.1.jar"
 hash = "03c11ab966b7bc860cb6a756463caf69322ba379eac2bae754bfcfbe5c5f253f"
 
 [[files]]
-file = "mods/moonlight-1.19.2-2.1.9-fabric.jar"
-hash = "86b0560cd278063c8bfbb328bce6af476fdebfa3b52a70b33fcc00d9c5af51e6"
+file = "mods/moonlight-1.19.2-2.1.13-fabric.jar"
+hash = "97a0f35f8a9d4891dfe87e30702b49299b72d7d704016302a065d7cc7a1ec567"
 
 [[files]]
 file = "mods/moreberries-1.5.1.jar"
