@@ -1409,8 +1409,8 @@ file = "mods/pluckablearrows-1.2.3+1.19.2.jar"
 hash = "f38f885464d76e737e56a9cb8515d3654e28aaef8cd7df6255465315dad41130"
 
 [[files]]
-file = "mods/polymer-all-0.2.20+1.19.2.jar"
-hash = "45722a49c6379002fad413423414ed56d2fcc53dd3dd60b4bfd1c46a9c84e3d6"
+file = "mods/polymer-all-0.2.21+1.19.2.jar"
+hash = "c7d84fa6b43396308dcd0939c45f5df180a9e10a78257e84970cb2c3d00f53ea"
 
 [[files]]
 file = "mods/precise_armor-1.0.jar"
@@ -1497,8 +1497,8 @@ file = "mods/soundphysics-fabric-1.19.2-1.0.15.jar"
 hash = "7d8a7c2f2ec1280bf699c8a515336dcd66347215b4a8bd4f8ec472e38401e1a3"
 
 [[files]]
-file = "mods/spiderstpo-fabric-1.19.2-2.0.2.jar"
-hash = "0db0efbe6ee9e9993ce4f7103ec80b9f05080fbdaec653cfcef161ee67e700b3"
+file = "mods/spiderstpo-1.19.2-2.0.4.jar"
+hash = "6a9c4fe15894750ecb5a9670fc4b545145f3bbb6accd7cddff51165c17d7fac2"
 
 [[files]]
 file = "mods/sprinks-1.0.2.jar"
