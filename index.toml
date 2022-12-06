@@ -1497,8 +1497,8 @@ file = "mods/soundphysics-fabric-1.19.2-1.0.15.jar"
 hash = "7d8a7c2f2ec1280bf699c8a515336dcd66347215b4a8bd4f8ec472e38401e1a3"
 
 [[files]]
-file = "mods/spiderstpo-1.19.2-2.0.4.jar"
-hash = "6a9c4fe15894750ecb5a9670fc4b545145f3bbb6accd7cddff51165c17d7fac2"
+file = "mods/spiderstpo-fabric-1.19.2-2.0.3.jar"
+hash = "6b8c2b75d7320d24182761fbd48d1dcb6f2b48fd662ea726df2f81d09bab26c5"
 
 [[files]]
 file = "mods/sprinks-1.0.2.jar"
