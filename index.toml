@@ -1013,8 +1013,8 @@ file = "mods/FiltPick-fabric-mc1.19.2-0.1.0.jar"
 hash = "fdc3a629bd71953fe3a7d098b62086fc62c446e957055f1f30f93b5cec382b91"
 
 [[files]]
-file = "mods/ForgeConfigAPIPort-v4.2.7-1.19.2-Fabric.jar"
-hash = "0c93636da83bca1eb4b80351b80aaa8fa178f6568038d07f905cd8be4a059fb9"
+file = "mods/ForgeConfigAPIPort-v4.2.9-1.19.2-Fabric.jar"
+hash = "5c08a3b5de221b816689e1dbea862ae770787381770ed8891fc1d151147632b4"
 
 [[files]]
 file = "mods/InvMove-1.19-0.8.1-Fabric.jar"
@@ -1301,8 +1301,8 @@ file = "mods/indium-1.0.9+mc1.19.2.jar"
 hash = "e0bee321e771ca46c4117a469cd916a71f8ce44cbfd35c006425775edfb79b50"
 
 [[files]]
-file = "mods/iris-mc1.19.2-1.4.3.jar.disabled"
-hash = "c2860349374fee9d2dadd99a21406e551ccaaf84155e288c7df9aae30d1b1424"
+file = "mods/iris-mc1.19.2-1.4.5.jar.disabled"
+hash = "1b150a2ff968ae81a5782304127cd8a0df6cc69a74470cbb43c7b0352f26c590"
 
 [[files]]
 file = "mods/jamlib-0.5.0.jar"
@@ -1329,8 +1329,8 @@ file = "mods/liberty-villagers-mod-1.0.5+1.19.2.jar"
 hash = "cd7784c77e9e3e4a9f7b9b93ceb05e39b886f5b54faf2f1a26cd7a641514d5f1"
 
 [[files]]
-file = "mods/lithium-fabric-mc1.19.2-0.10.2.jar"
-hash = "5688ad4f02b9682ca57c1ed5685969a31b0961e82b24517646a08dcd95d9fc65"
+file = "mods/lithium-fabric-mc1.19.2-0.10.3.jar"
+hash = "25b13fd247b1ccc4f916c7641c74d10b5e7359314b11a738d71bd1155ae582d3"
 
 [[files]]
 file = "mods/lootjs-fabric-1.19.2-2.7.7.jar"
@@ -1417,8 +1417,8 @@ file = "mods/precise_armor-1.0.jar"
 hash = "05078cc4144cd8844204a17b50e7f1b73038c883f6d2c4b23d5eaefe158451d5"
 
 [[files]]
-file = "mods/qfapi-4.0.0-beta.23_qsl-3.0.0-beta.22_fapi-0.68.0_mc-1.19.2.jar"
-hash = "3d7cf8d2ebfa1691e24c3583923d3f2d37f501a8309bf3a0f97453474a285d27"
+file = "mods/qfapi-4.0.0-beta.24_qsl-3.0.0-beta.24_fapi-0.68.0_mc-1.19.2.jar"
+hash = "dc660eb6ffa9400c557b7a602db27e03170f185752385fe6c1f7aff3746731ff"
 
 [[files]]
 file = "mods/quarry-reborn-1.19-1.0.2.jar"
